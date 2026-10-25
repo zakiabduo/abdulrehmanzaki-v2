@@ -1,13 +1,13 @@
 export const profile = {
   name: "Abdul Rehman Zaki",
-  roles: ["AI/ML Trainee", "MERN Full-Stack Developer", "UX/UI Designer"],
-  bio: "AI/ML Trainee and Software Engineer with experience in MERN full-stack development and UX/UI design. Passionate about building user-focused digital solutions and exploring AI/ML technologies.",
+  roles: ["AI/ML Intern", "MERN Full-Stack Developer", "UX/UI Designer"],
+  bio: "AI/ML Trainee and Intern and Software Engineer with experience in MERN full-stack development and UX/UI design. Passionate about building user-focused digital solutions and exploring AI/ML technologies.",
   email: "abdulrehmanzaki007@gmail.com",
   location: "Pakistan",
   linkedin: "https://www.linkedin.com/in/abdulrehmanzaki/",
   github: "https://github.com/zakiabduo",
   cv: "Abdul_Rehman_Zaki_CV.pdf", // file lives in /public
-  siteUrl: "https://zakiabduo-abdulrehmanzaki.vercel.app",
+  siteUrl: "https://abdulrehmanzaki-v2.vercel.app/",
 };
 
 export const stats = [
@@ -36,9 +36,9 @@ export const radar = [
   { axis: "Frontend", value: 4 },
   { axis: "Backend", value: 4 },
   { axis: "Databases", value: 3.5 },
-  { axis: "UI/UX design", value: 3.5 },
-  { axis: "Data analysis", value: 3 },
-  { axis: "AI / ML", value: 2.5 },
+  { axis: "Data analysis", value: 3.5 },
+  { axis: "AI / ML", value: 3.5},
+  { axis: "UI/UX design", value: 3.5 }
 ];
 
 export type Project = {
@@ -79,7 +79,7 @@ export const projects: Project[] = [
 ];
 
 export const timeline = [
-  { title: "AI/ML Trainee", place: "NETSOL Technologies Pakistan", period: "2026 – Present" },
+  { title: "AI/ML Intern", place: "NETSOL Technologies Pakistan", period: "2026 – Present" },
   { title: "BS Software Engineering", place: "University of Okara, Pakistan", period: "2022 – 2026" },
 ];
 
