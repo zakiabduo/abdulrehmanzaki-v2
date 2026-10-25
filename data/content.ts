@@ -25,7 +25,7 @@ export const skillGroups = [
 /** Short labels for the 3D skills orbit (derived from skillGroups). */
 export const orbitSkills = [
   "Python", "Machine Learning", "Data Analysis", "React.js", "JavaScript",
-  "Node.js", "Express.js", "MongoDB", "UI/UX Design", "Figma", "Git & GitHub", "Leadership",
+  "Node.js", "Express.js", "MongoDB", "UI/UX Design", "Figma",
 ];
 
 /**
