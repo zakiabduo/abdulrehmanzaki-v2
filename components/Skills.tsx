@@ -36,7 +36,7 @@ export default function Skills() {
                 </ul>
               </div>
             ))}
-            <p className="text-sm text-muted">Drag the sphere to rotate it.</p>
+            <p className="text-sm text-muted"></p>
           </div>
         </div>
 

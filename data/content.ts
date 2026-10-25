@@ -19,7 +19,7 @@ export const stats = [
 export const skillGroups = [
   { title: "AI & Data", items: ["AI & Machine Learning", "Python", "Data Analysis & Visualization"] },
   { title: "Web development", items: ["MERN Stack Development", "React.js & JavaScript", "MongoDB & Express.js"] },
-  { title: "Design & workflow", items: ["UI/UX Design", "Figma", "Git & GitHub", "Problem Solving & Leadership"] },
+  { title: "Design & workflow", items: ["UI/UX Design", "Figma"] },
 ];
 
 /** Short labels for the 3D skills orbit (derived from skillGroups). */
